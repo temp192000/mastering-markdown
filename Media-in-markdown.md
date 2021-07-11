@@ -41,14 +41,16 @@
 
 <img src="http://unsplash.it/500/500?image=1012" width="500px" height="500px" alt="Pup Pic"/>
 
-<style>
-    img{
-        width: 200px;
-        height: 200px;
-    }
-</style>
+    1. It seems GitHub removed or never supported CSS in Markdown for security reasons.
 
-    We can also use figcaptions because, we don't have it in markdown yet.
+    <style>
+        img{
+            width: 200px;
+            height: 200px;
+        }
+    </style>
+
+    2. We can also use figcaptions because, we don't have it in markdown yet.
 
     <figure>
         <figcaption></figcaption>

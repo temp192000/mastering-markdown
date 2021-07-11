@@ -39,7 +39,7 @@
 **Why We use this now?**
 <br> Well, There is no way to adjust and Height and Width in Markdown. If we want to customize how an image look up, we'd have to use HTML and/or CSS.
 
-<img src="http://unsplash.it/500/500?image=1012" width="500px" height="500px" alt="Pup Pic>
+<img src="http://unsplash.it/500/500?image=1012" width="500px" height="500px" alt="Pup Pic"/>
 
 <style>
     img{
@@ -48,7 +48,8 @@
     }
 </style>
 
-    We can use figcaptions because we don't have it in markdown yet.
+    We can also use figcaptions because, we don't have it in markdown yet.
+
     <figure>
         <figcaption></figcaption>
     </figure>

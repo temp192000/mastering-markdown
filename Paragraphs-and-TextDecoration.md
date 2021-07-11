@@ -22,6 +22,15 @@ we can either use `'*'` or `'_'` notation to decorate texts:
 
 
 
-Bottom Line: 
-                One Set - Italic
-                Two Set - Bold
+Bottom Line:
+
+One Set of Asterisk     - *Italic*
+
+One Set of Underline    - _Italic_
+
+Two Set of Asterisk     - **Bold**
+
+Two Set of Underline    - __Bold__
+
+Two Set of Tilde        - ~~StrikeThrough~~
+
